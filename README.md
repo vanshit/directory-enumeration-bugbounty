@@ -1,2 +1,2 @@
 # directory-enumeration-bugbounty
-Directory Bruteforce Disctionary Compilation for BugBounty
+Directory Bruteforce Dictionary Compilation for BugBounty 
